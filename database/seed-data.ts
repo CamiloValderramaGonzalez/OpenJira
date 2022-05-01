@@ -25,7 +25,7 @@ export const seedData: ISeedData = {
         {
             description:
                 "En progreso lorem dasfhjasdk dlsk sdlksa aslk31dmdps sdksl ",
-            status: "in-progres",
+            status: "in-progress",
             createAt: Date.now() - 2000000,
         },
     ],
